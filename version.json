@@ -1,8 +1,8 @@
 {
-  "release": "0.2.1.2",
+  "release": "0.2.1.3",
   "stage": "alpha",
-  "build": 5,
-  "url": "https://github.com/BxDorn/atlas-modeling-lab/releases/tag/v0.2.1.2",
-  "notes": "Every side pane floats: drag the grab handle at its top middle away from its dock; drag it back onto the lit spot (or double-click the handle) to dock it again.",
-  "released": "2026-11-11T02:35:37.276Z"
+  "build": 6,
+  "url": "https://github.com/BxDorn/atlas-modeling-lab/releases/tag/v0.2.1.3",
+  "notes": "A review now has a dashboard on its right: days left and the pace needed to finish by the due date (set it right there), a disposition donut that filters the items when you click a slice, a burn-up of decisions against the due date, what blocks approval, reviewers and what each has done, the most discussed items, what changed since the review started, and its tasks.",
+  "released": "2026-11-11T03:02:36.288Z"
 }
