@@ -1,8 +1,8 @@
 {
-  "release": "0.2.1",
+  "release": "0.2.1.2",
   "stage": "alpha",
-  "build": 3,
-  "url": "https://github.com/BxDorn/atlas-modeling-lab/releases/tag/v0.2.1",
-  "notes": "Architect lines: the selected line stands out (bright white on a dark canvas), drag orthogonal segments, move either end to any point of a card's outline, and pin an end with the hover thumbtack; \"Reset line\" puts it back. Remove from diagram is on the right-click menu.",
-  "released": "2026-11-11T00:10:08.843Z"
+  "build": 5,
+  "url": "https://github.com/BxDorn/atlas-modeling-lab/releases/tag/v0.2.1.2",
+  "notes": "Every side pane floats: drag the grab handle at its top middle away from its dock; drag it back onto the lit spot (or double-click the handle) to dock it again.",
+  "released": "2026-11-11T02:35:37.276Z"
 }
