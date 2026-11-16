@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.19",
+  "release": "0.2.1.21",
   "stage": "alpha",
-  "build": 22,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.19",
-  "notes": "The paper behind every lens and the Model Universe is now a very dark navy (and the panels, Inspector and time bar",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.19.dmg",
-  "sha256": "596c312f5044aa81a9485546eb91b0ea300d23b518ee3cbd1807896fec5e5a4f",
-  "sig": "fQgbaHPkULaSQ7gjjiOGFpm+6mkRZC6jaErTNpcd4skdqrH9m7m6R8CyYsaHPSgATQF1qpU82vypgId9KZvYCQ==",
-  "released": "2026-11-14T19:22:56.167Z"
+  "build": 24,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.21",
+  "notes": "**Drag turns the model.** In free flight, dragging now rotates the model about the point in front of you, so it",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.21.dmg",
+  "sha256": "08dd62ee13e22c861e497d5f9252f8c736adb10b85bad82dd19900b096fdcada",
+  "sig": "VWE/kQiR2cwFKa1a+r7mKqAXi4skAY63IsqiPay/vQ9m7OnJHcTn5r5BYb24ridmfC0o4G72TgaWRjO3J+oBAg==",
+  "released": "2026-11-16T20:46:02.661Z"
 }
